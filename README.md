@@ -3,10 +3,6 @@
 <p>I am a full-stack developer based in Nepal.</p>
 Link to my Portfolio: https://pranjal.com.np
 
-## My Github Stats:
-
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=pranjalchalise&show_icons=true&" alt="BinayakJha"/></p>
-
 
 ## Technologies and tools used by me:
 
